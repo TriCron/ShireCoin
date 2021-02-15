@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[shirecoin.qt-translation-020x]
+file_filter = src/qt/locale/shirecoin_<lang>.ts
+source_file = src/qt/locale/shirecoin_en.ts
+source_lang = en
